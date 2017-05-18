@@ -51,14 +51,17 @@ describe Animals do
                      {
                        type: 'dominance',
                        description: 'Don\'t mess with me.',
+                       good_for_teamwork: false
                      },
                      {
                        type: 'communality',
                        description: 'What\'s mine is thine; what\'s thine is mine.',
+                       good_for_teamwork: false
                      },
                      {
                        type: 'reciprocity',
                        description: 'You scratch my back; I\'ll scratch yours.',
+                       good_for_teamwork: true
                      }
                    ]
                  },
